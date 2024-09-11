@@ -164,13 +164,20 @@ class CategorySerializer(serializers.ModelSerializer):
 # РАБОТА С POSTMAN и ЗАПРОСАМИ
 ## POST
 Добавление отзыва
-![[post.jpg]]
+
+![image](https://github.com/user-attachments/assets/bead9024-ea32-43d5-bab2-e28472bae15c)
+
 ## GET
 Получение всех объявлнией
-![[get.jpg]]
+
+![image](https://github.com/user-attachments/assets/addc8289-fea5-415a-a9c5-26e91512ba16)
+
 ## PUT
 Изменение цены в объявлении
-![[put.png]]
+
+![image](https://github.com/user-attachments/assets/c52ceae8-9ae6-444c-ae06-086c82f6c192)
+
 ## DELETE
 Удаление категории
-![[delete.png]]
+
+![image](https://github.com/user-attachments/assets/3cf46640-d979-4597-b13c-ee10482c7f24)
